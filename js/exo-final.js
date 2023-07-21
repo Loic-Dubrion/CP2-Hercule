@@ -1,9 +1,4 @@
 /**
- * Ceci est un simple commentaire
- * Il utilise les convention de JSDOC https://jsdoc.app/about-getting-started.html
- * C'est pratique pour donner les infos essentielles en gardant un code lisible
- * En plus il est possible de s'en servir pour générer des documentations automatiques
- * 
  * @property {Array} friends - All the friends
  * @property {object} profil  - Profile info
  */
